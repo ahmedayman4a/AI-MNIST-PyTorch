@@ -1,0 +1,7 @@
+pytorch
+numpy
+pandas
+kagglehub
+wandb
+tabulate
+tqdm
