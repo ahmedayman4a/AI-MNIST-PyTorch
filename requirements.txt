@@ -5,3 +5,5 @@ kagglehub
 wandb
 tabulate
 tqdm
+seaborn
+matplotlib
